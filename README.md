@@ -13,3 +13,6 @@ We're trying to choose the best spaCy model for our project. We want one that gi
 
 ## Requirement text file:
 [requirements.txt](https://github.com/lonamdutyana/semantic_similarities/files/14440229/requirements.txt)
+
+## dockerfile link:
+https://hub.docker.com/repository/docker/mdutyanalona/example.py
