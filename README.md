@@ -1,6 +1,6 @@
 # NLP Model Comparison
 
-## Differnce Between Models
+## Difference Between sm and md models
 What's interesting about the similarities between "cat," "monkey," and "banana" is how they connect in unexpected ways. While "cat" and "monkey" are animals, "banana" is a fruit. But sometimes, we see them together in stories or pictures.
 For example, in cartoons, monkeys often like bananas, and sometimes, cats are shown with bananas too. 
 This makes us think about how language and culture connect different things, even if they're not really related.
@@ -24,4 +24,5 @@ We're trying to choose the best spaCy model for our project. We want one that gi
 
 ## dockerfile link:
 https://hub.docker.com/repository/docker/mdutyanalona/semantics-similarity
-
+## requirements.txt
+[requiements.txt.txt](https://github.com/lonamdutyana/semantic_similarities/files/14494053/requiements.txt.txt)
