@@ -11,4 +11,4 @@ ADD . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Run watch_next.py when the container launches
-CMD ["python", "watch_next.py"]
+CMD ["python", "semantics.py"]
